@@ -1,0 +1,19 @@
+Prompt 1:
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+
+coba bantu saya memahami soal ini
+
+Prompt 2:
+library yang dipakai
+
+Prompt 3: 
+buatkan kodenya dan jelaskan
+
+Prompt 4: 
+polanya (saya berikan gambar pola yang ada di file)
+
+Prompt 5: 
+buatkan code C nya

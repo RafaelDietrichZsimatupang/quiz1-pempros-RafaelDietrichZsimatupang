@@ -1,0 +1,8 @@
+Prompt 1:
+buatkan sebuah program sederhana untuk membantu operasional sebuah laundry, dimana akan ada input jumlah pakaian, jenis pakaian, banyak pakaian per jenis, berat, dll
+
+Prompt 2:
+dalam bahasa C, input juga hari penjemputan dan hitung waktu pengembalian adalah 2 hari setelahnya
+
+prompt 3:
+tidak perlu tagihan
